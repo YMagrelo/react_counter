@@ -1,1 +1,0 @@
-{"version":3,"sources":["Counter.css"],"names":[],"mappings":"AAAA,SACE,iBACF,CAEA,QACE,WAAY,CACZ,WAAY,CACZ,WAAY,CACZ,wBAAoC,CACpC,kBACF","file":"main.7a3fe5cb.chunk.css","sourcesContent":[".counter {\n  text-align: center;\n}\n\n.button {\n  width: 100px;\n  height: 30px;\n  border: none;\n  background-color: rgb(236, 152, 152);\n  border-radius: 30px;\n}\n"]}
